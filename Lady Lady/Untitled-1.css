@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>A Page from My Childhood - Lady Lady</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff0f5;
+            color: #333;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+            color: #c71585;
+        }
+        img {
+            display: block;
+            margin: 20px auto;
+            max-width: 300px;
+            border-radius: 10px;
+        }
+        ul {
+            background-color: #ffffff;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>My Childhood Memories with Lady Lady</h1>
+
+    <p>One of the most beautiful memories from my childhood was watching the anime "Lady Lady". I loved the character of Lynn, a kind and elegant little girl who always tried to do the right thing.</p>
+
+    <p>Her story was full of emotions—joy, sadness, and hope. I admired her grace, courage, and determination. Watching her taught me the value of kindness and staying strong even in hard times.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/ar/f/fe/%D9%84%D9%8A%D8%AF%D9%8A_%D9%84%D9%8A%D8%AF%D9%8A.png" alt="Lady Lady - Lynn">
+
+    <h2>Things I Loved as a Child:</h2>
+    <ul>
+        <li>Watching "Lady Lady"</li>
+        <li>Drawing princesses and castles</li>
+        <li>Playing with tea sets and dolls</li>
+        <li>Reading fairy tale books</li>
+        <li>Dressing up and pretending to be a princess</li>
+    </ul>
+
+</body>
+</html>
